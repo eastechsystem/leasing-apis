@@ -1,4 +1,4 @@
-## Allane's 'leasing-contract-APIs'
+## Vehicle's leasing contract APIs
 This source code is an Spring-Boot based Application.
  
 Tested with following
